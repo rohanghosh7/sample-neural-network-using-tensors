@@ -1,0 +1,1 @@
+Go to your cmd and install PyTorch running the following code in the terminal-  conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
